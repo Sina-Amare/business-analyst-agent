@@ -1,0 +1,13 @@
+# Environment variables file (NEVER push this!)
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Output directory
+output/
+
+# Virtual environment directory (e.g., venv, .venv)
+venv/
+.venv/
