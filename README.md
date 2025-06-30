@@ -15,7 +15,7 @@ This project implements an AI agent using LangGraph to perform daily business pe
 
 - Python 3.8+
 - An API key from an LLM provider (e.g., [OpenRouter.ai](https://openrouter.ai/))
-- (Optional) A LangSmith API key for tracing.
+- A LangSmith API key for tracing.
 
 ### 2. Setup
 
